@@ -1,0 +1,6 @@
+<hl7:sender typeCode="SND">
+    <hl7:device classCode="DEV" determinerCode="INSTANCE">
+         <hl7:id use="BUS" root="2.16.840.1.113883.3.239.4" extension="UniqueSenderIdentifier"/>
+         <desc mediaType="text/plain" representation="TXT">I hereby accept the service agreement here: http://innovation-lab.ca/media/1062/innovation-lab-terms-of-use-apr-16.pdf</desc>
+    </hl7:device>
+</hl7:sender>
